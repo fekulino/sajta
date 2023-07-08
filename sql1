@@ -1,3 +1,0 @@
-Select * from word w
-join word2 f on f.f_id=w.w_id;
-ssdfcc
